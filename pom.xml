@@ -11,13 +11,6 @@
   <distributionManagement>
     <repository>
         <id>central</id>
-        <name>MUDU-PC-releases</name>
-        <url>http://localhost:8081/artifactory/libs-release</url>
-    </repository>
-</distributionManagement>
-<distributionManagement>
-    <repository>
-        <id>central</id>
         <name>capricon-PC-releases</name>
         <url>http://localhost:8081/artifactory/libs-release</url>
     </repository>
